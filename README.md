@@ -9,10 +9,6 @@
 
 - 🤝 I’m looking for help with **creating chatbots on different platforms (esp discord and twitter/X) for the logical fallacies LLM.**
 
-- 👨‍💻 All of my projects are available at [youssefaa.com](youssefaa.com)
-
-- 📝 I regularly write articles on [aseasquared.substack.com](aseasquared.substack.com)
-
 - 📫 How to reach me **yousefamrzagazig@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
