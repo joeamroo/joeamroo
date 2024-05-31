@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **creating chatbots on different platforms (esp discord and twitter/X) for the logical fallacies LLM.**
 
-- 📫 How to reach me **yousefamrzagazig@gmail.com**
+- 📫 How to reach me:  **yousefamrzagazig@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
