@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Youssef Ateya</h1>
-<h3 align="center">I am also a Junior majoring in Computer Science and minoring in Mathematics at the University of Houston, where I learn and apply the latest technologies and concepts in the field.</h3>
+<h3 align="center">I am a Rising Senior majoring in Computer Science and minoring in Mathematics at the University of Houston.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joeamroo&label=Profile%20views&color=0e75b6&style=flat" alt="joeamroo" /> </p>
 
